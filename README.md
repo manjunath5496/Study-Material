@@ -1696,11 +1696,11 @@
 </p>
 </br> 
  
-<p>A Modern Approach to Verbal and Non-Verbal Reasoning By R.S. Aggarwal
+<p>From Clerks to Corpora: essays on the English language yesterday and today
 </p>
 <p>CAT 
 </p>
-<p><a href="https://github.com/manjunath5496/A-Modern-Approach-to-Verbal-and-Non-Verbal-Reasoning-By-R-S-Aggarwal" target="_blank" class="demo"> Download </a> 
+<p><a href="https://github.com/manjunath5496/CAT-Study-Material/blob/master/ak(1).pdf" target="_blank" class="demo"> Download </a> 
 </p>
 </br> 
  
