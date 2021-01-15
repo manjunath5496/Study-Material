@@ -1752,7 +1752,7 @@
 </p>
 </br> 
  
-<p>A Modern Approach to Verbal Reasoning (Fully Solved) By R.S. Aggarwal
+<p>Fuzzy Mathematics
 </p>
 <p>CAT 
 </p>
